@@ -4,7 +4,7 @@
 
 **_I am supposted to recently created a new company in the `GAMING industry`. Where should I locate the office?_**
 
-#imagen
+![alt text](INPUT/imag.jpg)
 
 ### RESUME🎮👨🏻‍💻
 
@@ -55,7 +55,7 @@ The two first preferences (pubs & kindergarten) are supplied in almost every cit
 5) Cooffe for everyone! A Starbucks was found throught Foursquare's API at only 0.5 meters. ☕️✅
 
 
-I gathered all the information and represented in a map using tableau. You can find the link in the 
+I gathered all the information and represented in a map using tableau. You can find the json file in OUTPUT folder as "all_info.json". Just need to open Tableau and open through it. 
 
 
 
