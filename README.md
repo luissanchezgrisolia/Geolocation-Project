@@ -52,8 +52,10 @@ The two first preferences (pubs & kindergarten) are supplied in almost every cit
 
 4) Parents, you have not been forgotten. I located throught Foursquare's API a close kindergarten for your children.👶🏼✅
 
-5) Cooffe for everyone! An starbucks was found throught Foursquare's API at only 0.5 meters. ☕️✅
+5) Cooffe for everyone! A Starbucks was found throught Foursquare's API at only 0.5 meters. ☕️✅
 
+
+I gathered all the information and represented in a map using tableau. You can find the link in the 
 
 
 
